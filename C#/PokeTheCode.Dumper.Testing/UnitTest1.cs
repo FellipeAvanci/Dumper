@@ -2,7 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PokeTheCode.Dumper;
 
 namespace PokeTheCode.Dumper.Testing
-{
+{   
     [TestClass]
     public class UnitTest1
     {
@@ -12,4 +12,5 @@ namespace PokeTheCode.Dumper.Testing
             new { A = "OK" }.Dump();
         }
     }
+    //great testing ! :) 
 }
